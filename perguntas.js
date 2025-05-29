@@ -1,23 +1,23 @@
-criaCartao(
+anime (
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual é o personagem principal de Dragon Ball Super?,
+    'Goku'
 )
 
-criaCartao(
+anime(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é a esposa de Goku?',
+    'Titi'
 )
 
-criaCartao(
+anime(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Quantas esferas do dragom existem?',
+    '8'
 )
 
-criaCartao(
+anime(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quantos filhos Goku tem?',
+    '2'
 )

@@ -1,11 +1,11 @@
-criarCartao (
+criarCartao(
     'Programação',
     'Qual é o personagem principal de Dragon Ball Super?,
     'Goku'
 )
 
 criarCartao(
-    'Geografia',
+    'Anime',
     'Qual é a esposa de Goku?',
     'Titi'
 )

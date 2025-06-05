@@ -1,23 +1,23 @@
 criarCartao(
-    'Programação',
-    'Qual é o personagem principal de Dragon Ball Super?,
+    'anime',
+'Qual é o personagem principal de Dragon Ball Super?',
     'Goku'
 )
 
 criarCartao(
-    'Anime',
+    'anime',
     'Qual é a esposa de Goku?',
     'Titi'
 )
 
 criarCartao(
-    'Programação',
+    'anime',
     'Quantas esferas do dragom existem?',
     '8'
 )
 
 criarCartao(
-    'Lingua inglesa',
+    'anime',
     'Quantos filhos Goku tem?',
     '2'
 )

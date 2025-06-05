@@ -1,22 +1,22 @@
-anime (
+criarCartao (
     'Programação',
     'Qual é o personagem principal de Dragon Ball Super?,
     'Goku'
 )
 
-anime(
+criarCartao(
     'Geografia',
     'Qual é a esposa de Goku?',
     'Titi'
 )
 
-anime(
+criarCartao(
     'Programação',
     'Quantas esferas do dragom existem?',
     '8'
 )
 
-anime(
+criarCartao(
     'Lingua inglesa',
     'Quantos filhos Goku tem?',
     '2'
